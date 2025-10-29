@@ -65,3 +65,5 @@ kubectl apply -f k8s/
 Apache License 2.0
 
 # Touch update: 1760516854
+
+# PR Update: 2025-10-15 - enhancement/update-2462
